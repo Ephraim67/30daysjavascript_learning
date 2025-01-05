@@ -166,7 +166,7 @@ Build a movie search app that fetches data from a movie API like OMDb.
 Day 30: Final Project
 
 Use everything you’ve learned to build a final larger project (like an e-commerce site, blog platform, or chat app).
-Step 3: Stay Consistent
+## Step 3: Stay Consistent
 Time Management:
 
 Dedicate a fixed time daily for the challenge (e.g., 1–2 hours per day).
@@ -176,12 +176,12 @@ Don’t just complete the challenge, understand the concepts and try to implemen
 Challenge Yourself:
 
 If you finish a task early, challenge yourself by adding more complexity to the task.
-Step 4: Share Your Progress
+## Step 4: Share Your Progress
 GitHub Repository:
 Push your daily solutions to GitHub and keep track of your progress.
 Social Media:
 Share your daily progress on Twitter or other platforms to stay motivated and get feedback from the community.
-Step 5: Reflect and Improve
+## Step 5: Reflect and Improve
 At the end of the 30 days, take time to reflect on what you've learned:
 
 Review the Code:
@@ -196,4 +196,4 @@ Keep building projects and applying what you've learned to strengthen your under
 Resources for Learning
 MDN Web Docs: JavaScript Documentation
 JavaScript.info: JavaScript Tutorial
-freeCodeCamp: JavaScript Challenges****
+freeCodeCamp: JavaScript Challenges
