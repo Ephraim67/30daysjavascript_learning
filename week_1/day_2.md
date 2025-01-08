@@ -19,3 +19,20 @@
 * Debugging and tracking the flow of the program.
 * Checking variable values or outputs during development.
 * Testing API responses, loops, or functions.
+
+## Statements
+Statements are the instructions that the JavaScript engine executes. They can perform actions like assigning values, declaring variables, calling functions, or making decisions.
+**Statement Types:**
+* Declaration Statements: Declare variables, constants, or functions.
+* Control Flow Statements: Control the execution flow of the program.
+* Expression Statements: Evaluate and return a value.
+
+## Semicolons
+Semicolons (;) are used to terminate statements. While JavaScript allows you to omit semicolons in many cases (due to automatic semicolon insertion, or ASI), it's a best practice to use them explicitly for clarity and to avoid unexpected behavior.
+
+## Comments
+Comments are used to explain code, making it more readable and maintainable. JavaScript supports two types of comments:
+* Single-Line Comments
+Use // for single-line comments
+* Multi-Line Comments
+Use /* ... */ for multi-line comments
