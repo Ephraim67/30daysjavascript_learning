@@ -4,38 +4,37 @@
 Before you start, ensure your development environment is ready:
 
 Text Editor/IDE:
+* Use a code editor like Visual Studio Code (VSCode), Sublime Text, or Atom.
+* Install any necessary extensions for JavaScript (e.g., Prettier for formatting, ESLint for linting, and JavaScript snippets).
 
-Use a code editor like Visual Studio Code (VSCode), Sublime Text, or Atom.
-Install any necessary extensions for JavaScript (e.g., Prettier for formatting, ESLint for linting, and JavaScript snippets).
 Browser Developer Tools:
-
-You can run JavaScript directly in your browser console. This is handy for quick testing and learning.
-Version Control (Optional but Recommended):
+* You can run JavaScript directly in your browser console. This is handy for quick testing and learning.
+* Version Control (Optional but Recommended):
 
 Set up a Git repository for version control. This will allow you to track your progress and store your solutions.
 
-To set up git: git init
+To set up git: ```git init```
 
-Push your code to GitHub or another version control platform.
+* Push your code to GitHub or another version control platform.
 
 ## Step 2: Get Ready for Daily Challenges
-The 30-Day JavaScript Challenge typically involves small, focused tasks each day. Here’s a suggested structure for your challenge:
+***The 30-Day JavaScript Challenge typically involves small, focused tasks each day. Here’s a suggested structure for your challenge:***
 
-Day 1 - 7: Basic JavaScript Concepts
+**Day 1 - 7**: Basic JavaScript Concepts
 These first few days should focus on the fundamentals of JavaScript.
 
-Day 1: Variables and Data Types
+**Day 1**: Variables and Data Types
 
 Practice declaring variables using let, const, and var.
 Work with data types like numbers, strings, booleans, arrays, and objects.
 Challenge: Write a program that declares a variable of each data type and logs it to the console.
 
-Day 2: Functions and Parameters
+**Day 2**: Functions and Parameters
 
 Learn how to write functions using function declarations and expressions.
 Challenge: Create a function that takes a name as a parameter and returns a greeting message.
 
-Day 3: Conditionals (if/else, switch)
+**Day 3**: Conditionals (if/else, switch)
 
 Practice using conditionals like if, else if, and switch statements.
 Challenge: Write a program that checks whether a number is even or odd.
