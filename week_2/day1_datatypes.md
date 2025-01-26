@@ -94,4 +94,61 @@
 
 The Prototypal Inheritance is a feature in javascript used to add methods and properties in objects. It is a method by which an object can inherit the properties and methods of another object. Traditionally, in order to get and set the Prototype of an object, we use Object.getPrototypeOf and Object.setPrototypeOf.
 
+- Built-in Objects in JavaScript are special objects provided by the language itself. They come "pre-installed" and are always available for you to use without needing to create them yourself or import anything.
+
+These objects are often referred to as global objects because they can be accessed anywhere in your code. They provide useful functionality to help you work with numbers, text, dates, and more.
+
+Here are some common examples of built-in objects:
+
+1. Number
+   Represents numbers and provides methods to work with them.
+   ```javascript
+   let num = 42;
+   console.log(num.toFixed(2));// Displays: "42.00" (formats number with 2 decimal places)
+   console.log(Number.isInteger(num)); // Displays: true (checks if it's an integer)
+   ```
+2. Math
+   Provides constants and methods for mathematical operations.
+   ```javascript
+   console.log(Math.PI); // Displays: 3.141592653589793 (value of π)
+   console.log(Math.sqrt(16)); // Displays: 4 (square root of 16)
+   console.log(Math.random()); // Displays a random number between 0 and 1
+   ```
+3. Date
+   Handles dates and times.
+   ```javascript
+      let now = new Date();
+      console.log(now); // Displays the current date and time (e.g., "2025-01-26T08:45:00.000Z")
+      console.log(now.getFullYear()); // Displays the current year (e.g., 2025)
+   ```
+5. String
+   Represents and manipulates text.
+   ```javascript
+      let greeting = "Hello, world!";
+      console.log(greeting.length); // Displays: 13 (length of the string)
+      console.log(greeting.toUpperCase()); // Displays: "HELLO, WORLD!"
+      console.log(greeting.includes("world")); // Displays: true (checks if "world" is in the string)
+   ```
+5. Error
+   Used to handle errors.
+   ```javascript
+      try {
+         throw new Error("Something went wrong!");
+      } catch (error) {
+        console.log(error.message); // Displays: "Something went wrong!"
+      }
+   ```
+7. Function
+   Represents functions and allows advanced operations.
+   ```javascript
+      let add = new Function('a', 'b', 'return a + b');
+      console.log(add(5, 3)); // Displays: 8
+   ```
+7. Boolean
+   Represents true or false values.
+   ```javascript
+   let isLoggedIn = true;
+   console.log(isLoggedIn); // Displays: true
+   console.log(Boolean(0)); // Displays: false (0 is considered "falsey" in JavaScript)
+   ```
      
